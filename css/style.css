@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+
+}
+
+
+
+.yellow{
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  background-color: yellow;
+
+}
+
+.purple{
+
+  background-color: #660066;
+  width: 200px;
+  height: 200px;
+
+}
+
+.red{
+
+  background-color:red;
+  padding: 100px;
+  width: 400px;
+
+}
+
+.blue{
+margin-top:10px;
+  background-color:blue;
+  padding-top:0px;
+  padding-left:0px;
+
+  width: 400px;
+  height: 400px;
+
+}
+.green{
+
+  background-color:green;
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+
+}
+.black{
+
+  background-color:black;
+  width: 100px;
+  height: 100px;
+
+}
